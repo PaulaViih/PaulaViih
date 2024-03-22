@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+body{
+    background-color: #01041B;
+}
+
+header{
+    background-color: #05072F;
+}
+
+.fecaf + .music {
+    margin-left: -10px; 
+}
+
+
+.title, .bottons, .settings {
+    text-align: center; 
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.title h1, .bottons h1, .settings h1 {
+    display: inline-block;
+    margin: 0 10px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    cursor: pointer; 
+}
+
+.title, .bottons, .settings {
+    width: calc(33% - 20px);
+    vertical-align: top; 
+    font-size: 8px; 
+    display: inline-block;
+
+}
+
+@media (max-width: 600px) {
+    .title, .bottons, .settings {
+        width: 100%; 
+    }
+}
+
+.account, .bar, .fecaf{
+    color: #CF092D;
+} 
+
+.help, .login, .bottons, .music{
+    color: white;
+}
+
+
+#musictext{
+    color: #CF092D;
+    font-size: 100px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    display: inline-block; 
+    padding-top: 70px;
+}
+
+#title2{
+    padding-left: 80px;
+}
+
+#everyonetext, #fortext
+
+{
+    color: white;
+    font-size: 100px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+#fortext{
+    padding-left: 40px;
+    padding-top: 70px;
+    display: inline-block; 
+}
+
+
+p{
+    color: white;
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+#describe{
+    padding-left: 80px;
+    padding-top: 20px;
+}
+
+#buttomred{
+    display: inline-block; 
+    background-color: #CF092D;
+    border: none;
+    padding: 15px 32px; 
+    text-align: center; 
+    text-decoration: none; 
+    font-size: 16px; 
+    margin: 4px 2px; 
+    cursor: pointer; 
+    border-radius: 45px;
+    margin: 40px 80px;
+}
+
+#buttomblue{
+    display: inline-block; 
+    background-color: #410093;
+    border: none;
+    padding: 15px 32px; 
+    text-align: center; 
+    text-decoration: none; 
+    font-size: 16px; 
+    margin: 4px 2px; 
+    cursor: pointer; 
+    border-radius: 45px;
+
+}
+
+#imagem{
+    width: 48%;
+    float: right;
+
+
+
+}
+
+
+
+
+
+    
