@@ -1,10 +1,3 @@
-﻿<img src="https://github.com/PaulaViih">
-
----
-
-<div  align="center">
-<a href="https://www.linkedin.com/in/paulavit%C3%B3ria/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-CA7984?style=flat-square&logo"></a>
-</div>
 #### learning!
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
