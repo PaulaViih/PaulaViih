@@ -18,7 +18,7 @@ Sou apaixonada por dados, transformar informações complexas em soluções simp
  
 <div> 
   <a href="https://www.linkedin.com/in/paulavit%C3%B3ria/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:paulaviih.santos[at]gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:paulaviih.santos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://paulaviihsantos.wixsite.com/my-site-3" target="_blank"><img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" target="_blank"></a>
   
 </div>
