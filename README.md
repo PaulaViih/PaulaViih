@@ -1,6 +1,6 @@
 ## Olá, me chamo Paula Vitória
 
-Sou apaixonada por dados e por transformar informações complexas em soluções simples e estratégicas.
+Sou apaixonada por dados, transformar informações complexas em soluções simples e estratégicas.
 
 📈 Analista e Cientista de Dados com 3 anos de experiência atuando com análise, modelagem e visualização de dados.
 
